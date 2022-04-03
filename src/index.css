@@ -17,10 +17,12 @@ body {
 
 p {
   font-size: 1.6 rem;
+  text-align: center;
 }
 
 h1{
   font-size: 6 rem;
+  text-align: center;
 }
 
 .app{
@@ -79,9 +81,8 @@ h1{
 
 .app .description{
   position: relative;
-  right: -90%;
   transform-origin: 0 0;
-  transform: rotate(269deg);
+
 }
 
 .app .bottom{
